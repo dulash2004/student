@@ -1,0 +1,45 @@
+body{background-color:ghostwhite;
+
+
+}
+
+h1{letter-spacing: 30px;
+text-decoration:  underline;
+top: 300px;
+justify-self: center;
+font-weight: bold;
+background: lightskyblue;}
+
+.loginpage{border: 3px solid ;
+justify-content: center;
+display: grid;
+background:lightskyblue;
+margin: 30px;
+padding: 130px;
+color: white;
+display: block;
+justify-self: center;
+text-align: center;
+justify-content: center;
+outline: none;
+}
+
+.header{background-color: white;
+display: grid;
+}
+  
+label{display: block;
+width: 100px;}
+
+input{width: 400px;
+border: 1px solid;
+}
+
+button{background: yellow;
+padding: 10px;
+margin: 10px;
+align-items: center;
+text-align: center;
+width: 300px;
+font-size: 20px;}
+
